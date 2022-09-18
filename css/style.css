@@ -80,7 +80,7 @@ body{
 }
 
 .link li a:hover{
-    color: #2c6467;
+    color: #d5e1c9;
 }
 
 .logo{padding:20px 0; }
@@ -107,7 +107,7 @@ body{
 }
 
 .nav li a:hover{
-    color: #2c6467;
+    color: #d5e1c9;
 }
 
 /*nav  f*/
@@ -197,8 +197,12 @@ body{
     float: left;
 }
 
-.menu_in1 ul li a:hover, .menu_in2 ul li a:hover{
-    color: #2c6467;
+.menu_in1 ul li a:hover{
+    color: #d5e1c9;
+}
+
+.menu_in2 ul li a:hover{
+    color: #f46b34;
 }
 
 
@@ -216,6 +220,8 @@ body{
     color: #fff;
 
     margin: 27px 20px 0 20px;
+
+    
 
     /* margin-top: 27px;
     margin-right: 20px;
@@ -252,6 +258,7 @@ body{
 
     margin: 27px 20px 0 0px;
     
+    
 }
 
 .menu_in2 ul li:nth-child(1) a {
@@ -264,7 +271,7 @@ body{
 
 .menu_in2 ul li:nth-child(2) a {
 
-    color: #2c6467;
+    color: #f46b34;
 
     margin-left: 30px;
 
@@ -657,7 +664,7 @@ select{
 
     
     /* width: 1076px; */
-    width: 1076px;
+    width: 1068px;
     height: 100px;
 
     margin: auto;
@@ -686,7 +693,7 @@ select{
     border: 1px solid #ccc;
     border-radius: 40px;
 
-    padding: 20px 22px;
+    padding: 20px 20px;
 
     margin-right: 10px;
 
